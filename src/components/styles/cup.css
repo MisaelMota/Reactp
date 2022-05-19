@@ -1,0 +1,23 @@
+.cupcake{
+    margin-bottom: 10px;
+   }
+   
+   .Container{
+       text-align: center;
+       background-color: rgb(195, 231, 219);
+       margin-top: -19.5px;
+       border-radius: 10px 10px;
+      
+   }
+   
+   .vender{
+       justify-content: left;
+   }
+   
+   .vendido{
+       filter: grayscale(1);
+   }
+
+   .div-Desplegar{
+    margin-top: 20px;
+   }

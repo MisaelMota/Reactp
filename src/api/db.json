@@ -1,0 +1,83 @@
+{
+    "cupcakes":[
+        {
+            "id":1,
+            "sabor":"Chocolate",
+            "color":"amarillo",
+            "descripción":"cupcake de vainilla",
+            "precio":10,
+            "image":"https://th.bing.com/th/id/OIP.pjR4GSaE8yeF_pcg_6qPvwAAAA?pid=ImgDet&w=316&h=316&rs=1",
+            "vendido":false
+
+        },
+
+        {   
+            "id":2,
+            "sabor":"Vainilla",
+            "color":"amarillo",
+            "descripción":"cupcake de vainilla",
+            "precio":10,
+            "image":"https://th.bing.com/th/id/OIP.pjR4GSaE8yeF_pcg_6qPvwAAAA?pid=ImgDet&w=316&h=316&rs=1",
+            "vendido":false
+        },
+
+        {
+            "id":3,
+            "sabor":"Vainilla",
+            "color":"amarillo",
+            "descripción":"cupcake de vainilla",
+            "precio":10,
+            "image":"https://th.bing.com/th/id/OIP.pjR4GSaE8yeF_pcg_6qPvwAAAA?pid=ImgDet&w=316&h=316&rs=1",
+            "vendido":false
+        },
+
+        {   
+            "id":4,
+            "sabor":"Vainilla",
+            "color":"amarillo",
+            "descripción":"cupcake de vainilla",
+            "precio":10,
+            "image":"https://th.bing.com/th/id/OIP.pjR4GSaE8yeF_pcg_6qPvwAAAA?pid=ImgDet&w=316&h=316&rs=1",
+            "vendido":false
+        },
+
+        {
+            "id":5,
+            "sabor":"Vainilla",
+            "color":"amarillo",
+            "descripción":"cupcake de vainilla",
+            "precio":10,
+            "image":"https://th.bing.com/th/id/OIP.pjR4GSaE8yeF_pcg_6qPvwAAAA?pid=ImgDet&w=316&h=316&rs=1",
+            "vendido":false
+        },
+
+        {
+            "id":6,
+            "sabor":"Vainilla",
+            "color":"amarillo",
+            "descripción":"cupcake de vainilla",
+            "precio":10,
+            "image":"https://th.bing.com/th/id/OIP.pjR4GSaE8yeF_pcg_6qPvwAAAA?pid=ImgDet&w=316&h=316&rs=1",
+            "vendido":false
+        },
+
+        {
+            "id":7,
+            "sabor":"Vainilla",
+            "color":"amarillo",
+            "descripción":"cupcake de vainilla",
+            "precio":10,
+            "image":"https://th.bing.com/th/id/OIP.pjR4GSaE8yeF_pcg_6qPvwAAAA?pid=ImgDet&w=316&h=316&rs=1",
+            "vendido":false
+        }
+        
+
+    ],
+    "Servicios":[
+        {
+            "id":1,
+            "Nombre":"Delivery",
+             "Costo": 15
+        }
+    ]
+}
